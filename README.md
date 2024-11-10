@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🚀 Sobre mim
-Olá! Me chamo Crislene, tenho 28 anos e sou estudante de Desenvolvimento Full Stack JavaScript. Estou ingressando na carreira de programação e aqui disponibilizo o meu material de estudo e aperfeiçoamento pessoal. 
+Olá! Me chamo Crislene, sou estudante de Desenvolvimento de Sistemas. Estou ingressando na carreira de programação e aqui disponibilizo o meu material de estudo e aperfeiçoamento pessoal. 
 
 
 ## 🛠 Habilidades
@@ -10,6 +10,8 @@ CSS
 Javascript
 React
 Node.js
+MySQL
+PHP
 
 ## Outras seções comuns em perfis do GitHub
 👩‍💻 Estudo atualmente no SENAC Largo Treze
